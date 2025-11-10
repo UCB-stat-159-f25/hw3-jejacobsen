@@ -1,0 +1,11 @@
+AI Tool Used: Claude (Anthropic)
+
+I used Claude to guide me step-by-step through Homework 3. This included:
+- Instructions for organizing repository structure and moving data files
+- Code for creating pyproject.toml to make ligotools installable
+- Test functions for readligo.py and utils.py
+- Guidance on extracting functions from the notebook to utils.py
+- MyST configuration and GitHub Actions workflow setup
+- Makefile creation
+
+My process was basically to feed Claude instructions from the homework, as well as my own clarifying questions, and troubleshoot as we worked through it. 
