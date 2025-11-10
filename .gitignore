@@ -1,2 +1,20 @@
-# MyST build outputs
-_build
+# Build directories
+_build/
+__pycache__/
+*.pyc
+
+# Generated files
+figures/*.png
+figures/*.pdf
+audio/*.wav
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
