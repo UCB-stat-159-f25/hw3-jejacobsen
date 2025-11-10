@@ -8,3 +8,6 @@ project:
   
 site:
   template: book-theme
+  nav:
+    - file: README.md
+    - file: LOSC_Event_tutorial.ipynb
