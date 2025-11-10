@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=64", "setuptools_scm>=8", "numpy"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ligotools"
+version = "0.1.0"
+authors = [
+    {name = "Ligo Scientific Collaboration (LSC) and John Jacobsen"}
+]
+description = "Tools for LIGO gravitational wave data analysis"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "h5py",
+]
+
+[tool.setuptools]
+packages = ["ligotools"]
