@@ -1,0 +1,10 @@
+version: 1
+project:
+  id: 24d8902a-6061-45dc-b821-f1b2880e8c46
+  title: LIGO Gravitational Wave Detection
+  github: https://github.com/UCB-stat-159-f25/hw3-jejacobsen
+  jupyter: true
+  binder: https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-jejacobsen/main
+  
+site:
+  template: book-theme
